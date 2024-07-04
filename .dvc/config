@@ -1,0 +1,6 @@
+[core]
+    remote = remote_storage2
+['remote "remote_storage"']
+    url = ../Users/reenal/personal/Mlops_DVC
+['remote "remote_storage2"']
+    url = ../Users/reenal/personal/Mlops_DVC/remote_storage
