@@ -1,6 +1,10 @@
 [core]
-    remote = remote_storage2
+    remote = remote_storage5
 ['remote "remote_storage"']
     url = ../Users/reenal/personal/Mlops_DVC
 ['remote "remote_storage2"']
     url = ../Users/reenal/personal/Mlops_DVC/remote_storage
+['remote "remote_storage4"']
+    url = /mylocal_storage
+['remote "remote_storage5"']
+    url = ../mylocal_storage
